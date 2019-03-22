@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Performance-Bounceback-Starter-Project-master_Nada2", "Performance-Bounceback-Starter-Project-master_Nada2.csproj", "{12148430-22A3-322C-CB23-20071D57322F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Performance-Bounceback-Starter-Project-master_Nada2.Editor", "Performance-Bounceback-Starter-Project-master_Nada2.Editor.csproj", "{3CF3AC91-A4DC-7E70-D047-9D83514E9BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12148430-22A3-322C-CB23-20071D57322F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12148430-22A3-322C-CB23-20071D57322F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12148430-22A3-322C-CB23-20071D57322F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12148430-22A3-322C-CB23-20071D57322F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF3AC91-A4DC-7E70-D047-9D83514E9BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF3AC91-A4DC-7E70-D047-9D83514E9BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF3AC91-A4DC-7E70-D047-9D83514E9BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF3AC91-A4DC-7E70-D047-9D83514E9BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
